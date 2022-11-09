@@ -12,7 +12,7 @@ public class MySQL {
     public Connection connection;
     public void authorize(){
         try{
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/tourctrl","root","Kiskomara8");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/copdatabase","root","Kiskomara8");
         } catch (SQLException throwables) {
             throwables.printStackTrace();
         }

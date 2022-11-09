@@ -30,7 +30,7 @@ public class Container {
         HBox box = new HBox();
         box.setAlignment(Pos.CENTER);
         ImageView imageView = new ImageView();
-        imageView.setImage(Singleton.getInstance().loadImage("/image.png"));
+        imageView.setImage(Singleton.getInstance().loadImage("/sample/image.png"));
         box.getChildren().add(imageView);
         root.setTop(box);
         box.setOnMouseClicked(e->{

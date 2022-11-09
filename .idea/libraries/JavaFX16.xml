@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="JavaFX16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/JavaFX16/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JavaFX16/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JavaFX16/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JavaFX16/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JavaFX16/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JavaFX16/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JavaFX16/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JavaFX16/javafx.web.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
